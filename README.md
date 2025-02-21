@@ -1,2 +1,1 @@
-# cora_map_tutorial
-Short introduction to working with sky maps produced by cora
+Output files from `cora` will be stored here.
