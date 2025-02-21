@@ -1,0 +1,1 @@
+Output files from `cora` will be stored here.
